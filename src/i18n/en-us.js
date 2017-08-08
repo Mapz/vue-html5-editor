@@ -42,5 +42,6 @@ export default {
     hr: 'horizontal rule',
     undo: 'undo',
     'line height': 'line height',
-    'exceed size limit': 'exceed size limit'
+    'exceed size limit': 'exceed size limit',
+    'text space': 'text space'
 }
