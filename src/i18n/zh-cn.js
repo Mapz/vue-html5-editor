@@ -42,5 +42,6 @@ export default {
     hr: '分隔线',
     undo: '撤消',
     'line height': '行高',
-    'exceed size limit': '超出大小限制'
+    'exceed size limit': '超出大小限制',
+    'text space': '字间距'
 }
